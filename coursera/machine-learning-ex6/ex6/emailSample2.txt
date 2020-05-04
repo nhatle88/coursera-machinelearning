@@ -1,34 +1,8 @@
-Folks,
- 
-my first time posting - have a bit of Unix experience, but am new to Linux.
-
- 
-Just got a new PC at home - Dell box with Windows XP. Added a second hard disk
-for Linux. Partitioned the disk and have installed Suse 7.2 from CD, which went
-fine except it didn't pick up my monitor.
- 
-I have a Dell branded E151FPp 15" LCD flat panel monitor and a nVidia GeForce4
-Ti4200 video card, both of which are probably too new to feature in Suse's default
-set. I downloaded a driver from the nVidia website and installed it using RPM.
-Then I ran Sax2 (as was recommended in some postings I found on the net), but
-it still doesn't feature my video card in the available list. What next?
- 
-Another problem. I have a Dell branded keyboard and if I hit Caps-Lock twice,
-the whole machine crashes (in Linux, not Windows) - even the on/off switch is
-inactive, leaving me to reach for the power cable instead.
- 
-If anyone can help me in any way with these probs., I'd be really grateful -
-I've searched the 'net but have run out of ideas.
- 
-Or should I be going for a different version of Linux such as RedHat? Opinions
-welcome.
- 
-Thanks a lot,
-Peter
-
--- 
-Irish Linux Users' Group: ilug@linux.ie
-http://www.linux.ie/mailman/listinfo/ilug for (un)subscription information.
-List maintainer: listmaster@linux.ie
-
-
+Hey there,
+We are reaching out to all Fabric customers today with an important final reminder that Fabric is shutting down Ma‌y 4, 2020. After this date, you’ll no longer have access to the Fabric dashboard and your Fabric app data will be deleted in accordance with the Fabric Data Processing and Security Terms.
+If you haven’t already, make sure to migrate your Fabric apps to Firebase before Ma‌y 4, 2020. Migrating is quick and easy, and only takes a few minutes.
+Migrate to Firebase
+As always, our team is here to support you however we can. Reach out to support@fabric.io and we’ll be happy to help.
+With Fabric shutting down, we are excited to dedicate all of our time and effort to Firebase. We are heads down working on new tools and features to make Firebase your go-to platform for building and monitoring your apps. Our mission has, and will always be, to help you and your team succeed.
+Here's to the end of an era and to the beginning of a bright new one.
+Sincerely,
